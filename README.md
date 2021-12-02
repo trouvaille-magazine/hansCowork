@@ -4,6 +4,10 @@
 
 - JavaScript
   - 閱讀 [Eloquent JavaScript](https://eloquentjavascript.net/)
+  - 2021-12-02 ，Ch.01 共學進度
+    - 建立各自的練用環境（建立自己的 Repo ）
+    - 協助 yos 裝 [zsh](https://github.com/ohmyzsh/ohmyzsh/wiki/Installing-ZSH)
+    - 協助 yos 把 VS Code 的 code 指令安裝到 PATH
 
 ## 其他規劃共學項目
 
