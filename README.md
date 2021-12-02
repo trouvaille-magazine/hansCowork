@@ -10,6 +10,11 @@
     - 建立各自的練用環境（建立自己的 Repo ）
     - 協助 yos 裝 [zsh](https://github.com/ohmyzsh/ohmyzsh/wiki/Installing-ZSH)
     - 協助 yos 把 VS Code 的 code 指令安裝到 PATH
+    - Terminal 指令極簡基礎教學
+    - gh-pages 使用教學
+    - Ch.01 回答問題
+    - Ch.02 閱讀提示摘要
+    - 下週進度： yos 閱讀 Ch.02 與 Ch.03 。 hans 會盡快往後讀。
 
 ## 其他規劃共學項目
 
